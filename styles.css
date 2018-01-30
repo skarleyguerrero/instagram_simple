@@ -1,0 +1,79 @@
+body, html {
+    background-color: #ebebeb;
+    padding: 0;
+    margin: 0;
+}
+nav { 
+    width: 100%;
+    height: 80px;
+    margin: 0;
+    background: white;
+}
+nav div{
+     margin: 0 auto;
+     width: 660px;
+}
+nav p { 
+    margin: 0;
+    font-size: 35px;
+    font-weight: bolder;
+    padding: 20px 0px; 
+} 
+.main {
+    margin: 50px auto 50px auto;
+    width: 660px;
+    padding: 0;
+}
+.topBox{
+    background-color: white;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ebebeb;
+    border-radius: 5px 5px 0px 0px;
+}
+.left{
+    width: 250px;
+    height: 18px;
+}
+.right{
+    text-align: right;
+    width: 250px;
+    height: 18px;
+}
+.centerBox{
+    margin: 0;
+    width: 660px;
+    background-color: white;
+    overflow: hidden;
+}
+.bottomBox{
+    margin: 0;
+    background-color: white;
+    border-top: 1px solid #ebebeb;
+    padding: 16px 0px;
+    border-radius: 0px 0px 5px 5px;
+}
+.main p {
+    margin: 0;
+    padding: 0px 16px;
+}
+.title{
+    font-weight: 800;
+}
+.date{
+    color: gray;
+}
+img {
+    width: 660px;
+    object-fit: fill;
+}
+
+    
+    
+    
+    
+    
+    
+    
